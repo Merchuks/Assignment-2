@@ -20,12 +20,12 @@ main {
     text-align: center;
 }
 
-.botton-container {
+.button-container {
     display: flex;
-background-color: #01f;
-     
-   
+    gap: 5rem;
+    background-color: #01f;   
 }
+
 .button-container button {
 color: #00f;
 padding: .5rem;
