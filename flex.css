@@ -1,0 +1,36 @@
+*
+{ 
+    padding: 0;
+    margin: 0;
+}
+main {
+    padding: 3rem;
+    width: 40rem;
+    height: 14rem;
+    border: .3rem solid #00f;
+    margin-inline: auto;
+    background-color: #f0b;
+
+}
+ div h1 {
+    font-size: 50px;
+    padding-bottom: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom:  #00f solid .3rem; ;
+    text-align: center;
+}
+
+.botton-container {
+    display: flex;
+background-color: #01f;
+     
+   
+}
+.button-container button {
+color: #00f;
+padding: .5rem;
+border: pi solid;
+border-radius: 1rem;
+margin-top: 2rem;
+
+}
